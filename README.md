@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a developer passionate about **building secure, modern web applications**. Currently focused on **end-to-end encryption** and **full-stack development** with Vue.js and Go.
+A Software Developer focused on building modern web applications that are fast, efficient, and easy to use. Enjoys simplifying complex problems into simple, functional solutions, and continuously learning to keep up with evolving technology.
 
 ---
 
