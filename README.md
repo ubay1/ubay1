@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Ubay!
 
-<div align="center">
+<div align="left">
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-ubay1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ubay1)
-[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/ubay1)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-ubay1-181717?logo=github&logoColor=white)](https://github.com/ubay1)
+[![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/ubay1)
 
 </div>
 
@@ -17,33 +17,30 @@ I'm a developer passionate about **building secure, modern web applications**. C
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### Frontend
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-4FC08D?style=for-the-badge&logo=nuxt&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-4FC08D?logo=nuxt&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?logo=tailwindcss&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=white)
 
 ### Backend
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Security
-
-![HPKE](https://img.shields.io/badge/HPKE-Encryption-2D8CFF?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-🚀-FF6B6B?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-🚀-FF6B6B)
 
 </div>
 
@@ -51,7 +48,7 @@ I'm a developer passionate about **building secure, modern web applications**. C
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ubay1&theme=radical)
 
@@ -64,15 +61,15 @@ I'm a developer passionate about **building secure, modern web applications**. C
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<div align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ubay1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ubay1)
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
 **⚡ Powered by curiosity and caffeine**
 
